@@ -1,11 +1,1 @@
-Lunary v3 GitHub Pages update
-
-Upload these SIX files to the ROOT of your GitHub schedule repository:
-index.html
-app.js
-manifest.webmanifest
-sw.js
-icon-192.png
-icon-512.png
-
-If mobile GitHub refuses multiple files, upload ONE FILE AT A TIME. You do not need to upload this guide or the ZIP itself. Keep the exact filenames. Commit each upload. Wait for Pages to deploy, then reload the site.
+Lunary v4: GitHub 저장소 최상위(root)에 index.html, app.js, sw.js 파일을 기존 파일과 같은 이름으로 교체하세요. 다른 파일은 이전 버전과 동일합니다. 변경 후 배포와 캐시 갱신을 기다리세요. 기존 데이터를 보존하려면 앱에서 먼저 백업하세요.
