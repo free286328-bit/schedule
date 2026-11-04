@@ -1,0 +1,11 @@
+Lunary v3 GitHub Pages update
+
+Upload these SIX files to the ROOT of your GitHub schedule repository:
+index.html
+app.js
+manifest.webmanifest
+sw.js
+icon-192.png
+icon-512.png
+
+If mobile GitHub refuses multiple files, upload ONE FILE AT A TIME. You do not need to upload this guide or the ZIP itself. Keep the exact filenames. Commit each upload. Wait for Pages to deploy, then reload the site.
